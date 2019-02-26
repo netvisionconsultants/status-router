@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "dist/status-router.umd.js",
   "module": "dist/status-router.es5.js",
-  "typings": "dist/types/status-router.d.ts",
+  "typings": "dist/types/src/status-router.d.ts",
   "files": [
     "dist"
   ],
